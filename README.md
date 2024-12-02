@@ -32,7 +32,7 @@
 <h3 align="center">👨‍💻 Sobre Mim</h3>
 
 <p align="center">
-  Sou desenvolvedor Delphi com experiência em bancos de dados SQL. Apaixonado por criar soluções inteligentes e robustas!
+  Sou desenvolvedor Delphi com experiência em bancos de dados SQL. Apaixonado por criar soluções inteligentes !
 </p>
 
 ---
