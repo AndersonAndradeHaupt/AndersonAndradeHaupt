@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWY5YjRjZjIzNjY3YjM5YzY5YjQzODdjNTZkYjU2YjE0ZDY2YjE3MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5hp0hCW2mnh3v/giphy.gif" width="100%"/>
+  <!-- Este é o novo GIF animado que está funcionando -->
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Work%20Culture%20(HD%20Visuals)/Modern%20Work%20Environment.gif" width="100%"/>
 </div>
 
 <div align="center">
@@ -48,26 +49,9 @@
 
 ---
 
-<h3 align="center">🔭 Atualmente trabalhando em</h3>
-<p align="center">
-  Desenvolvimento de sistemas empresariais robustos em Delphi<br/>
-  Otimização de performance em bancos de dados SQL<br/>
-  Implementação de soluções escaláveis e eficientes
-</p>
-
----
-
-<h3 align="center">🌱 Sempre aprendendo</h3>
-<p align="center">
-  Novas funcionalidades e recursos do Delphi<br/>
-  Técnicas avançadas de modelagem de dados<br/>
-  Melhores práticas de desenvolvimento
-</p>
-
----
-
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AndersonAndradeHaupt&theme=darkhub&column=7" alt="GitHub Trophies"/>
+  <!-- Gráfico de Atividade como alternativa ao Snake Game -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AndersonAndradeHaupt&theme=dark" alt="Gráfico de Atividade"/>
 </div>
 
 ---
@@ -81,9 +65,5 @@
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://github.com/AndersonAndradeHaupt/AndersonAndradeHaupt/blob/output/github-contribution-grid-snake.svg" alt="snake"/>
-</div>
 
 <h4 align="center">Obrigado pela visita! 😊</h4>
