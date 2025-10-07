@@ -1,9 +1,11 @@
 <div align="center">
-  <h1>Olá, seja bem-vindo(a) ao meu perfil! 👋</h1>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWY5YjRjZjIzNjY3YjM5YzY5YjQzODdjNTZkYjU2YjE0ZDY2YjE3MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5hp0hCW2mnh3v/giphy.gif" width="100%"/>
 </div>
 
 <div align="center">
-  <p>Desenvolvedor Delphi apaixonado por criar soluções inteligentes e eficientes. Experiência sólida em bancos de dados SQL e sempre em busca de novos desafios para transformar ideias em realidade.</p>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Desenvolvedor+Delphi+e+SQL;Apaixonado+por+solu%C3%A7%C3%B5es+inteligentes;Sempre+aprendendo+e+evoluindo" alt="Typing SVG" />
+  </a>
 </div>
 
 <br/>
@@ -26,6 +28,10 @@
 </div>
 
 <div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AndersonAndradeHaupt&theme=dark" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=AndersonAndradeHaupt&label=Visitantes&color=blue&style=flat-square" alt="Contador de Visitantes" />
 </div>
 
@@ -42,12 +48,42 @@
 
 ---
 
-<h3 align="center">🔗 Conecte-se comigo</h3>
+<h3 align="center">🔭 Atualmente trabalhando em</h3>
+<p align="center">
+  Desenvolvimento de sistemas empresariais robustos em Delphi<br/>
+  Otimização de performance em bancos de dados SQL<br/>
+  Implementação de soluções escaláveis e eficientes
+</p>
+
+---
+
+<h3 align="center">🌱 Sempre aprendendo</h3>
+<p align="center">
+  Novas funcionalidades e recursos do Delphi<br/>
+  Técnicas avançadas de modelagem de dados<br/>
+  Melhores práticas de desenvolvimento
+</p>
+
+---
 
 <div align="center">
-  <a href="https://github.com/AndersonAndradeHaupt" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <img src="https://github-profile-trophy.vercel.app/?username=AndersonAndradeHaupt&theme=darkhub&column=7" alt="GitHub Trophies"/>
 </div>
 
 ---
+
+<h3 align="center">🔗 Conecte-se comigo</h3>
+
+<div align="center">
+  <a href="https://github.com/AndersonAndradeHaupt" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://github.com/AndersonAndradeHaupt/AndersonAndradeHaupt/blob/output/github-contribution-grid-snake.svg" alt="snake"/>
+</div>
 
 <h4 align="center">Obrigado pela visita! 😊</h4>
